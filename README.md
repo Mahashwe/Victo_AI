@@ -85,7 +85,5 @@ streamlit run app.py
 
 ## 👨‍💻 Credits & Contributors
 - Maha Swetha - Developer  
-- **Google Gemini AI, Streamlit, WeatherStack** - APIs used  
-
-### 🔥 **Now your project is well-documented and ready to be shared!** 🚀🔥
+- **Google Gemini AI, WeatherStack** - APIs used  
 
