@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+sounddevice
+speechrecognition
+numpy
+pyttsx3
+requests
+python-dotenv
+wave
